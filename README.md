@@ -1,4 +1,4 @@
-# Go FIPS with OpenSSL (test)
+# Go FIPS with OpenSSL (test 2)
 
 Repository for FIPS enabled Go using OpenSSL.
 
